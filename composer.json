@@ -1,0 +1,13 @@
+{
+    "name": "vendor/zip-file",
+    "description": "this will convert your file into zip and share with others",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\Controllers\\": "App/Controllers/",
+            "App\\Models\\": "App/Models/",
+            "App\\Resources\\": "App/Resources/"
+        }
+    },
+    "require": {}
+}
